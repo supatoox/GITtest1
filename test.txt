@@ -1,3 +1,3 @@
 This is a test usin GIT
 Adding a line of text to this file to see it modified.
-
+New Line 
